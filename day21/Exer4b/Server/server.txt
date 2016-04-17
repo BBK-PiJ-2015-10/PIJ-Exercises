@@ -1,0 +1,3 @@
+grant codeBase "\\Users\\YasserAlejandro\\PIJ\\Day-21\\Exer4b\\Server" {
+    permission java.security.AllPermission;
+};

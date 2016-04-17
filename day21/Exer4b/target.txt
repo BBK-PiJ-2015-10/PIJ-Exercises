@@ -1,0 +1,4 @@
+This is the target file to be read
+it contains a couple of sentences.
+I hope that it reads well, well or 
+if not.

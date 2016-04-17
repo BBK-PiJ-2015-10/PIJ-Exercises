@@ -1,0 +1,4 @@
+grant codeBase "\\Users\\YasserAlejandro\\PIJ\\Day-21\\Exer4b\\" {
+    permission java.security.AllPermission;
+    permission java.security.SocketPermission "*:1024-", "accept, resolve";
+};
